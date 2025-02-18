@@ -2,9 +2,6 @@
 
 Модуль отправляет отчёты об ошибке в техническую поддержку вашего веб-приложения GearMagic.
 
-## Скриншот
-<img src="https://github.com/gearmagicru/gm-be-error_report/blob/main/assets/help/desk.png?raw=true">
-
 ## Установка
 
 Для добавления модуля в ваш проект, вы можете просто выполнить команду ниже:
